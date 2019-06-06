@@ -1,0 +1,74 @@
+{
+  "streams": [
+    {
+      "title": "A cool stream",
+      "description": "A really cool stream :D",
+      "id": 1
+    },
+    {
+      "title": "My new Strean",
+      "description": "A really cool stream xD",
+      "id": 2
+    },
+    {
+      "title": "Another Stream",
+      "description": "Yet another common stream",
+      "id": 3
+    },
+    {
+      "title": "My nice stream",
+      "description": "Yet another nice stream",
+      "id": 4
+    },
+    {
+      "title": "My nice stream",
+      "description": "Yet another nice stream",
+      "id": 5
+    },
+    {
+      "title": "My nice stream",
+      "description": "Yet another nice stream",
+      "id": 6
+    },
+    {
+      "title": "My nice stream",
+      "description": "Yet another nice stream",
+      "id": 7
+    },
+    {
+      "title": "My nice stream",
+      "description": "Yet another nice stream",
+      "id": 8
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 9
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 10
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 11
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 12
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 13
+    },
+    {
+      "title": "nice stream",
+      "description": "This is a test of another nice stream",
+      "id": 14
+    }
+  ]
+}
